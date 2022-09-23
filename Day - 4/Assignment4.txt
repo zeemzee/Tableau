@@ -1,0 +1,11 @@
+Assignment4
+
+1. All Runs scorer
+2. Top 5 Runs scorer
+3. Top 15 Runs scorer
+4. Top N Runs scorer
+5. Top N Runs scorer yearwise
+6. Top N Runs scorer yearwise with sum
+7. All bowlers
+8. Top 10 Runs scorer
+9. Top 5 Runs scorer yearwise
