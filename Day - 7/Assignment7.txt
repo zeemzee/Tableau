@@ -1,0 +1,6 @@
+Assignment7
+1. Drill down/up using builtin hierarchy
+2. Drill down/up by creating hierarchy
+3. Batsman runs by matchwise
+4. Batsman balls played by matchwise
+5. Number of boundaries hit by batsman matchwise
