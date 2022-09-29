@@ -1,0 +1,6 @@
+Assignment8
+1. create dynamic dimension
+2. create dynamic measures
+3. create dynamic dimension & measures
+4. Top 3 sales using set
+5. Top N sales using set and parameter
