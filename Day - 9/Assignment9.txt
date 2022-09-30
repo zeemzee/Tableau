@@ -1,0 +1,6 @@
+Assignment10
+1. sales by category with detailed region
+2. Total sales state wise using filled map
+3. Total sales and profit using symbol map
+4. Total profit/loss on subcategory using LOD
+5. profit/loss on/each subcategory using LOD
