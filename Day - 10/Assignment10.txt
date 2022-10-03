@@ -1,0 +1,6 @@
+Assignment10
+1. Total sales by category, sub category and region wise
+2. Split fields on Ship mode
+3. Use multiple measures in report
+4. Use multiple measures using measure names & values
+5. Total orders using any measure values
