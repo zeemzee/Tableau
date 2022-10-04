@@ -1,0 +1,7 @@
+Assignment11
+1. Top sales on category, subcategory, segment in a tabular report
+2. Top sales on category, subcategory, segment in a tabular report (using combined field)
+3. Top sales on category, subcategory, segment in a tree map (using combined field)
+4. Total sales on subcategory along with region wise
+5a. Dashboard showing the above two reports each
+5b. Single Dashboard showing all the above reports
