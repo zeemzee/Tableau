@@ -1,0 +1,11 @@
+Assignment12
+1. Yearly Sales by Segment along with Category
+2. Sales by sub-category
+3. Statewise Sales
+4. Dashboard combining all three reports
+5. Dashboard combining all three reports highlighted by Technology 
+6. Dashboard combining all three reports with filter
+7. Dashboard having multi reports of sales by country and state with 
+   clicks taking to respective wikipedia webpage
+8. Dashboard having Company logo, text, webpage and navigation to another dashboard
+9. Dashboard having Company logo, text, webpage and navigation to a sales report 
