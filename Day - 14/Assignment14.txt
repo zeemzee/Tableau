@@ -1,0 +1,7 @@
+Assignemnt14
+1. segment-wise sales - Basic Funnel chart
+2. Shipping mode category-wise using advance funnel chart
+3. Create a story using above charts
+4. Create a story using above charts plus any dashboard
+5. Create a story using above charts plus any dashboard and a homepage
+6. Create a dashboard wherein Filtering category should resize chart-size expanding space for other charts
