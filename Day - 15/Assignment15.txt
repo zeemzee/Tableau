@@ -1,0 +1,7 @@
+Assignemnt15
+create a funnel report on sales with category
+create a detail report on sales with subcategory
+Create dashboard with above multi reports using show/hide options 
+create a bar report on sales with subcategory
+create a detail report on yearly sales by subcategory
+Create dashboard with multi reports using navigation button 
