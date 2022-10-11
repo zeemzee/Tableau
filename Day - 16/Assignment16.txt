@@ -1,0 +1,7 @@
+Assignemnt16
+1. create a bar chart on sales by subcategory
+2. create a line chart on monthly sales
+3. create a sales map on state
+4. create a dashboard to show any above reports upon parameter selection
+5. create a sales report on subcategory and automate to show for each region wise
+6. create a sales report automatically displaying monthly timeline for all categories
