@@ -1,0 +1,7 @@
+Assigment19
+1. create chart using csv
+2. create/convert data into xlsx and create chart using xlsx
+3. create/convert data into tsv and create chart using tsv
+4. create/convert data into pdf and create chart using pdf
+5. Split the rowid order id using split/custom split`
+6. create/convert data into json and create chart using json
