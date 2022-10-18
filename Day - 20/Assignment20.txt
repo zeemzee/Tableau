@@ -1,0 +1,8 @@
+Assignment20
+1. show orders for the year 1994 using tableau filters
+2. show orders for the year 1994 using custom sql query filters
+3. show orders for the year 1994 or 1996 using custom sql query filters and parameters
+4. show orders using orders and orderdetails using inner join
+5. show orders using orders and orderdetails using custom sql inner join
+6. show orders with products using orders, orderdetails and products using inner join
+7. show orders with products using orders, orderdetails and products using custom sql inner join
