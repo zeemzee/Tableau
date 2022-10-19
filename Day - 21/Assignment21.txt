@@ -1,0 +1,10 @@
+Assignment21
+1. show orders, qty
+2. show orders, qty for each customers using relationship
+3. show orders, qty for each shippers using relationship
+4. show orders, qty for each customers,shippers using multiple relationship
+5. show orders, qty for each customers using joins
+6. show orders, qty for each shippers using joins
+7. show orders, qty for each customers,shippers using multiple joins
+8. show orders, qty for each customers,shippers using inner, left, right joins
+9. duplicate the customers info using unions
