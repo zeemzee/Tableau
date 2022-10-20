@@ -1,0 +1,7 @@
+Assignment22
+1. show products, suppliers, sum of stocks using joins
+2. show products, shipping owners, sum of stocks  using blending
+3. show products, shipping owners, sum of stocks  using multi connections
+4. show products, shipping owners, sum of stocks using inner join
+5. show all products with shipping owners, sum of stocks using joins
+6. show all shipping owners with products, sum of stocks using joins
