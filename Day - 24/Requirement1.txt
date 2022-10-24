@@ -1,0 +1,8 @@
+1. Total Sales Revenue
+2. Total Quantity Sales 
+3. Revenue Market-wise
+4. Sales Market-wise
+5. Top 5 Customers on Sales Revenue
+6. Top 5 Products on Sales Revenue
+7. Sales by Year and month
+8. Filter all above upon year or month selection
